@@ -1,3 +1,14 @@
 .botao:hover {
      background:linear-gradient(to right,);
 }
+:root {
+     --cor-de-fundo: #2d70f7;
+ }
+ 
+ body {
+     background-color: var(--cor-de-fundo);
+ }
+ 
+ h1 {
+     background-color: rgb(255, 2, 2);
+ }
